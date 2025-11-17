@@ -13,7 +13,7 @@
   <p align="center">
     Um pipeline completo para analisar e entender o cenário do mundo de futebol no seu save do FM23!
     <br />
-    <a href="https://youtu.be/QQNmT_7c4rI"><strong>Demonstração »</strong></a>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7396192824225992704/"><strong>Demonstração »</strong></a>
     <br />
     <br />
   </p>
